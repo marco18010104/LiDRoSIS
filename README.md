@@ -54,3 +54,17 @@ The framework integrates **classical image processing** (MATLAB) with **statisti
 ```bash
 git clone https://github.com/marco18010104/LiDRoSIS.git
 cd LiDRoSIS
+
+### Option 2 — Download as .zip file
+# 1. Download the repository as a ZIP file from GitHub:
+#    Click "Code" → "Download ZIP" on the main page.
+
+# 2. Extract it locally, for example to:
+#    C:\Users\YourName\Documents\LiDRoSIS
+
+# 3. Open MATLAB and add the folder (and subfolders) to the path:
+addpath(genpath('C:\Users\YourName\Documents\LiDRoSIS'))
+
+# 4. (Optional) Install Python dependencies:
+pip install -r requirements.txt
+
