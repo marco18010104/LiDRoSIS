@@ -47,3 +47,14 @@ The framework integrates **classical image processing** (MATLAB) with **statisti
 - `Zenodo` integration for DOI generation  
 
 ---
+📜 License
+This project is released under the MIT License — free to use, modify, and distribute with attribution.
+See the LICENSE file for details.
+
+💬 Contact
+
+Author: Marco António Ferreira
+📧 fc60327@alunos.fc.ul.pt
+🏛️ Faculty of Sciences, University of Lisbon (FCUL)
+
+For questions or issues, please open a GitHub issue or contact the author directly.
