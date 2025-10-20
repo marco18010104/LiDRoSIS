@@ -3,7 +3,7 @@
 
 **LiDRoSIS** is an open-source MATLAB–Python platform for automated segmentation and quantitative analysis of **lipid droplets (LDs)** and **reactive oxygen species (ROS)** in fluorescence microscopy images of irradiated cells with or without nanoparticles.
 
-Developed at the **Faculty of Sciences, University of Lisbon (FCUL)**, LiDRoSIS was created during a research internship on image-based quantification of radiation-induced cellular responses in **A549** and **MCF7** cells.  
+Developed at the both **IST - Technological Nuclear Campus** and **Faculty of Sciences, University of Lisbon (FCUL)**, LiDRoSIS was created during a research internship on image-based quantification of radiation-induced cellular responses in **A549** and **MCF7** cells.  
 The framework integrates **classical image processing** (MATLAB) with **statistical and visualization tools** (Python), designed for reproducibility and scalability in biomedical and radiobiology research.
 
 ---
@@ -16,7 +16,7 @@ The framework integrates **classical image processing** (MATLAB) with **statisti
 | `mainROS_gui.m` | MATLAB | Detects and quantifies **reactive oxygen species (ROS)** fluorescence |
 | `guiLD.m` / `guiROS.m` | MATLAB | Graphical user interfaces for interactive segmentation |
 | `Common/` | MATLAB | Core shared functions (mask creation, intensity normalization, metrics extraction) |
-| `post_analysis/StatLysis.py` | Python | Statistical aggregation, plotting (boxplots, ANOVA, regressions) |
+| `StatLysis.py` | Python | Statistical aggregation, plotting (boxplots, ANOVA, regressions) |
 | `assets/` | — | Example images and visualization resources |
 
 ---
