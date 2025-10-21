@@ -51,6 +51,9 @@ The framework integrates **classical image processing** (MATLAB) with **statisti
 This project is released under the MIT License — free to use, modify, and distribute with attribution.
 See the LICENSE file for details.
 
+> **DOI:** [10.5281/zenodo.1234567](https://doi.org/10.5281/zenodo.1234567)
+
+
 💬 Contact
 
 Author: Marco António Ferreira
